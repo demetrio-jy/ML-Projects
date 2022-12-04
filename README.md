@@ -1,4 +1,4 @@
-This folder contains the machine learning projects I am pursuing to refine my knowledge about it. 
+This folder contains the machine learning projects I am pursuing to refine my knowledge about this subject. 
 
 So far the folder contains:
 
